@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  - Fireball
+  - PlayerHitbox
+  - Props
+  - Ground
+  - Powerup
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - PlayerHitbox
+  - Enemy
+  - Props
+  - Projectiles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 404395403
+    locked: 0
+  - name: Props
+    uniqueID: 1938830739
+    locked: 0
+  - name: Ground
+    uniqueID: 3818501027
+    locked: 0
+  - name: Obstacles
+    uniqueID: 2385736125
+    locked: 0
+  - name: Player
+    uniqueID: 3107654859
+    locked: 0
+  - name: Pickups
+    uniqueID: 1557838517
+    locked: 0
+  - name: Particles
+    uniqueID: 1377971387
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
